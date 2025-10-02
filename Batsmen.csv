@@ -1,0 +1,152 @@
+,Player_Id,Runs,Balls_played,Strike_Rate,cluster,Player_Name,Batting_Hand,DOB,Country
+0,12,76.0,55,138.18,0,B Akhil,Right_Hand,07-Oct-77,India
+1,11,394.0,309,127.51,0,MV Boucher,Right_Hand,03-Dec-76,South Africa
+2,28,237.0,186,127.42,0,SM Katich,Left_Hand,21-Aug-75,Australia
+3,25,417.0,306,136.27,0,JR Hopes,Right_Hand,24-Oct-78,Australia
+4,49,147.0,111,132.43,0,SM Pollock,Right_Hand,16-Jul-73,South Africa
+5,65,368.0,292,126.03,0,S Sohal,Right_Hand,10-Nov-87,India
+6,37,33.0,24,137.5,0,D Salunkhe,Right_Hand,12-Nov-82,India
+7,108,145.0,109,133.03,0,S Vidyut,Left_Hand,03-Dec-81,India
+8,98,11.0,9,122.22,0,DNT Zoysa,Left_Hand,13-May-78,Sri Lanka
+9,101,423.0,339,124.78,0,SA Asnodkar,Right_Hand,29-Mar-84,India
+10,89,326.0,270,120.74,0,R Bhatia,Right_Hand,22-Oct-79,India
+11,90,177.0,123,143.9,0,MF Maharoof,Right_Hand,07-Sep-84,India
+12,78,4.0,3,133.33,0,VRV Singh,Right_Hand,17-Sep-84,India
+13,70,81.0,46,176.09,0,Shahid Afridi,Right_Hand,01-Mar-80,Pakistan
+14,190,126.0,90,140.0,0,M Morkel,Left_Hand,06-Oct-84,South Africa
+15,176,167.0,132,126.52,0,MN van Wyk,Right_Hand,20-Mar-79,South Africa
+16,111,40.0,26,153.85,0,LPC Silva,Right_Hand,14-Dec-79,Sri Lanka
+17,113,117.0,81,144.44,0,Misbah-ul-Haq,Right_Hand,28-May-74,Pakistan
+18,120,99.0,72,137.5,0,MS Gony,Right_Hand,04-Jan-84,India
+19,139,302.0,246,122.76,0,LA Pomersbach,Left_Hand,28-Sep-84,Australia
+20,149,4.0,3,133.33,0,CRD Fernando,Right_Hand,19-Jul-79,Sri Lanka
+21,102,36.0,29,124.14,0,Sohail Tanvir,Left_Hand,12-Dec-84,Pakistan
+22,105,39.0,19,205.26,0,Umar Gul,Right_Hand,14-Apr-84,Pakistan
+23,66,124.0,98,126.53,0,B Lee,Right_Hand,08-Nov-76,Australia
+24,69,128.0,78,164.1,0,Kamran Akmal,Right_Hand,13-Jan-82,Pakistan
+25,350,285.0,171,166.67,0,CH Morris,Right_Hand,30-Apr-87,South Africa
+26,369,122.0,86,141.86,0,Sachin Baby,Left_Hand,18-Dec-88,India
+27,372,379.0,278,136.33,0,CJ Anderson,Left_Hand,13-Dec-90,New Zealand
+28,358,106.0,61,173.77,0,LJ Wright,Right_Hand,07-Mar-85,England
+29,362,295.0,241,122.41,0,DJG Sammy,Right_Hand,20-Dec-83,West Indies
+30,377,47.0,32,146.88,0,TG Southee,Right_Hand,11-Dec-88,New Zealand
+31,381,5.0,3,166.67,0,Shivam Sharma,Right_Hand,09-Sep-93,India
+32,289,120.0,90,133.33,0,AC Blizzard,Left_Hand,27-Jun-84,Australia
+33,290,7.0,4,175.0,0,I Malhotra,Right_Hand,23-May-84,India
+34,309,116.0,68,170.59,0,KK Cooper,Right_Hand,16-Feb-89,West Indies
+35,308,503.0,378,133.07,0,SA Yadav,Right_Hand,14-Sep-90,India
+36,310,473.0,334,141.62,0,JP Faulkner,Right_Hand,29-Apr-90,Australia
+37,321,388.0,306,126.8,0,Azhar Mahmood,Right_Hand,28-Feb-75,Pakistan
+38,312,12.0,9,133.33,0,DAJ Bracewell,Right_Hand,28-Sep-90,New Zealand
+39,311,47.0,36,130.56,0,HV Patel,Right_Hand,23-Nov-90,India
+40,325,280.0,194,144.33,0,A Ashish Reddy,Right_Hand,24-Feb-91,India
+41,324,5.0,3,166.67,0,KMDN Kulasekara,Right_Hand,22-Jul-82,Sri Lanka
+42,264,43.0,31,138.71,0,Sunny Singh,Right_Hand,18-Dec-86,India
+43,285,75.0,58,129.31,0,TR Birt,Left_Hand,09-Dec-81,Australia
+44,277,170.0,140,121.43,0,DH Yagnik,Left_Hand,22-Jun-83,India
+45,284,326.0,235,138.72,0,RN ten Doeschate,Right_Hand,30-Jun-80,Netherlands
+46,280,423.0,313,135.14,0,NLTC Perera,Left_Hand,03-Apr-89,Sri Lanka
+47,279,18.0,11,163.64,0,BJ Haddin,Right_Hand,23-Oct-77,Australia
+48,245,34.0,22,154.55,0,AP Dole,Right_Hand,09-Oct-87,India
+49,246,36.0,26,138.46,0,AN Ahmed,Right_Hand,05-Nov-88,India
+50,247,4.0,2,200.0,0,RS Sodhi,Right_Hand,18-Oct-80,India
+51,256,18.0,12,150.0,0,Harmeet Singh,Left_Hand,07-Sep-92,India
+52,261,39.0,24,162.5,0,AUK Pathan,Right_Hand,17-Jun-84,India
+53,276,499.0,386,129.27,0,Shakib Al Hasan,Left_Hand,24-Mar-87,Bangladesh
+54,270,27.0,17,158.82,0,S Aravind,Left_Hand,08-Apr-84,India
+55,241,203.0,156,130.13,0,PD Collingwood,Right_Hand,26-May-76,England
+56,224,278.0,194,143.3,0,MJ Lumb,Left_Hand,12-Feb-80,England
+57,226,37.0,27,137.04,0,S Narwal,Left_Hand,16-Apr-82,India
+58,228,156.0,99,157.58,0,Bipul Sharma,Left_Hand,28-Sep-83,India
+59,230,181.0,143,126.57,0,AC Voges,Right_Hand,04-Oct-79,Australia
+60,244,34.0,26,130.77,0,A Mithun,Right_Hand,25-Oct-89,India
+61,207,321.0,250,128.4,0,AP Tare,Right_Hand,07-Nov-87,India
+62,198,123.0,101,121.78,0,AB McDonald,Right_Hand,05-Jun-81,Australia
+63,204,506.0,402,125.87,0,OA Shah,Right_Hand,22-Oct-78,England
+64,374,379.0,311,121.86,0,AR Patel,Left_Hand,20-Jan-94,India
+65,353,193.0,141,136.88,0,BJ Rohrer,Left_Hand,26-Mar-81,Australia
+66,329,342.0,276,123.91,0,Gurkeerat Singh,Right_Hand,29-Jun-90,India
+67,322,209.0,162,129.01,0,P Negi,Left_Hand,06-Jan-93,India
+68,332,12.0,9,133.33,0,K Upadhyay,Right_Hand,18-Jun-86,India
+69,407,255.0,184,138.59,0,JC Buttler,Right_Hand,08-Sep-90,England
+70,403,47.0,29,162.07,0,MJ McClenaghan,Left_Hand,11-Jun-86,New Zealand
+71,402,177.0,102,173.53,0,SN Khan,Right_Hand,27-Oct-97,India
+72,401,127.0,90,141.11,0,D Wiese,Right_Hand,18-May-85,South Africa
+73,433,24.0,14,171.43,0,ER Dwivedi,Right_Hand,22-Jul-88,India
+74,431,104.0,75,138.67,0,N Rana,Left_Hand,27-Dec-93,India
+75,427,157.0,119,131.93,0,HM Amla,Right_Hand,31-Mar-83,South Africa
+76,426,127.0,100,127.0,0,UT Khawaja,Left_Hand,18-Dec-86,Australia
+77,421,88.0,64,137.5,0,SW Billings,Right_Hand,15-Jun-91,England
+78,420,198.0,152,130.26,0,RR Pant,Left_Hand,04-Oct-97,India
+79,417,54.0,40,135.0,0,TM Head,Left_Hand,29-Dec-93,Australia
+80,416,13.0,8,162.5,0,KJ Abbott,Right_Hand,18-Jun-87,South Africa
+81,413,237.0,124,191.13,0,KH Pandya,Left_Hand,24-Mar-91,India
+82,412,19.0,13,146.15,0,P Sahu,Right_Hand,21-Aug-85,India
+83,409,146.0,108,135.19,0,MP Stoinis,Right_Hand,16-Aug-89,Australia
+84,408,83.0,38,218.42,0,CR Brathwaite,Right_Hand,18-Jul-88,West Indies
+85,391,38.0,31,122.58,0,JO Holder,Right_Hand,05-Nov-91,West Indies
+86,390,16.0,13,123.08,0,R Tewatia,Left_Hand,20-May-93,India
+87,385,73.0,40,182.5,0,BCJ Cutting,Right_Hand,30-Jan-87,Australia
+88,393,469.0,385,121.82,0,SS Iyer,Right_Hand,06-Dec-94,India
+89,400,156.0,125,124.8,0,HH Pandya,Right_Hand,11-Oct-93,India
+90,398,48.0,32,150.0,0,J Suchith,Left_Hand,16-Jan-94,India
+91,394,295.0,216,136.57,0,DJ Hooda,Right_Hand,19-Apr-95,India
+92,20,3270.0,2366,138.21,1,MS Dhoni,Right_Hand,07-Jul-81,India
+93,46,3390.0,2653,127.78,1,RV Uthappa,Right_Hand,11-Nov-85,India
+94,57,3874.0,2952,131.23,1,RG Sharma,Right_Hand,30-Apr-87,India
+95,42,3082.0,2555,120.63,1,S Dhawan,Left_Hand,05-Dec-85,India
+96,110,3270.0,2191,149.25,1,AB de Villiers,Right_Hand,17-Feb-84,South Africa
+97,40,3634.0,2948,123.27,1,G Gambhir,Left_Hand,14-Oct-81,India
+98,21,4106.0,2967,138.39,1,SK Raina,Left_Hand,27-Nov-86,India
+99,8,4105.0,3164,129.74,1,V Kohli,Right_Hand,05-Nov-88,India
+100,187,3373.0,2384,141.48,1,DA Warner,Left_Hand,27-Oct-86,Australia
+101,162,3447.0,2277,151.38,1,CH Gayle,Left_Hand,21-Sep-79,West Indies
+102,320,1480.0,1028,143.97,2,DA Miller,Left_Hand,10-Jun-89,South Africa
+103,306,1241.0,916,135.48,2,SPD Smith,Right_Hand,02-Jun-89,India
+104,334,574.0,333,172.37,2,AD Russell,Right_Hand,29-Apr-88,West Indies
+105,303,1287.0,1010,127.43,2,F du Plessis,Right_Hand,13-Jul-84,South Africa
+106,255,688.0,532,129.32,2,STR Binny,Right_Hand,03-Jun-84,India
+107,254,1304.0,1054,123.72,2,AJ Finch,Right_Hand,17-Nov-86,Australia
+108,237,626.0,476,131.51,2,KM Jadhav,Right_Hand,26-Mar-85,India
+109,236,924.0,753,122.71,2,Mandeep Singh,Right_Hand,18-Dec-91,India
+110,305,919.0,569,161.51,2,GJ Maxwell,Right_Hand,14-Oct-88,Australia
+111,216,789.0,649,121.57,2,EJG Morgan,Left_Hand,10-Sep-86,England
+112,62,1323.0,1004,131.77,2,WP Saha,Right_Hand,24-Oct-84,India
+113,44,768.0,532,144.36,2,ST Jayasuriya,Left_Hand,30-Jun-69,Sri Lanka
+114,50,783.0,549,142.62,2,Harbhajan Singh,Right_Hand,03-Jul-80,India
+115,52,1017.0,829,122.68,2,LRPL Taylor,Right_Hand,08-Mar-84,New Zealand
+116,56,974.0,750,129.87,2,A Symonds,Right_Hand,09-Jun-75,Australia
+117,35,1574.0,1298,121.26,2,RA Jadeja,Left_Hand,06-Dec-88,India
+118,18,1107.0,806,137.34,2,ML Hayden,Left_Hand,29-Oct-71,Australia
+119,157,604.0,462,130.74,2,JD Ryder,Left_Hand,06-Aug-84,New Zealand
+120,109,975.0,689,141.51,2,JA Morkel,Left_Hand,10-Jun-81,South Africa
+121,104,1400.0,1125,124.44,2,BJ Hodge,Right_Hand,29-Dec-74,Australia
+122,71,1262.0,1009,125.07,2,DJ Bravo,Right_Hand,07-Oct-83,West Indies
+123,4,1322.0,1084,121.96,2,DJ Hussey,Right_Hand,15-Jul-77,Australia
+124,10,971.0,769,126.27,2,CL White,Right_Hand,18-Aug-83,Australia
+125,197,663.0,544,121.88,2,GJ Bailey,Right_Hand,07-Sep-82,Australia
+126,158,1001.0,746,134.18,2,KP Pietersen,Right_Hand,27-Jun-80,South Africa
+127,163,692.0,553,125.14,2,MC Henriques,Right_Hand,01-Feb-87,Australia
+128,191,692.0,551,125.59,2,AD Mathews,Right_Hand,02-Jun-87,Sri Lanka
+129,260,788.0,641,122.93,2,MA Agarwal,Right_Hand,16-Feb-91,India
+130,383,942.0,740,127.3,2,LMP Simmons,Right_Hand,25-Jan-85,West Indies
+131,339,877.0,686,127.84,2,KK Nair,Right_Hand,06-Dec-91,India
+132,345,728.0,562,129.54,2,M Vohra,Right_Hand,18-Jul-93,India
+133,355,726.0,550,132.0,2,Q de Kock,Left_Hand,17-Dec-92,South Africa
+134,354,725.0,577,125.65,2,KL Rahul,Right_Hand,18-Apr-92,India
+135,32,2553.0,1823,140.04,3,SR Watson,Right_Hand,17-Jun-81,Australia
+136,19,1977.0,1622,121.89,3,MEK Hussey,Left_Hand,27-May-75,Australia
+137,53,2065.0,1499,137.76,3,AC Gilchrist,Left_Hand,14-Nov-71,Australia
+138,41,2728.0,1768,154.3,3,V Sehwag,Right_Hand,20-Oct-78,India
+139,88,2542.0,2054,123.76,3,KD Karthik,Right_Hand,01-Jun-85,India
+140,100,2225.0,1685,132.05,3,SE Marsh,Left_Hand,09-Jul-83,Australia
+141,147,2146.0,1612,133.13,3,DR Smith,Right_Hand,12-Apr-83,West Indies
+142,154,1993.0,1601,124.48,3,JP Duminy,Left_Hand,14-Apr-84,South Africa
+143,185,2511.0,2044,122.85,3,M Vijay,Right_Hand,01-Apr-84,India
+144,208,2325.0,1846,125.95,3,AT Rayudu,Right_Hand,23-Sep-85,India
+145,221,1959.0,1331,147.18,3,KA Pollard,Right_Hand,12-May-87,West Indies
+146,64,1808.0,1477,122.41,3,DPMD Jayawardene,Right_Hand,27-May-77,Sri Lanka
+147,2,2435.0,1885,129.18,3,BB McCullum,Right_Hand,27-Sep-81,New Zealand
+148,26,1687.0,1398,120.67,3,KC Sangakkara,Left_Hand,27-Oct-77,Sri Lanka
+149,27,2339.0,1798,130.09,3,Yuvraj Singh,Left_Hand,12-Dec-81,India
+150,31,2779.0,1898,146.42,3,YK Pathan,Right_Hand,17-Nov-82,India
